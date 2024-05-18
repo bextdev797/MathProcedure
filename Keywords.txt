@@ -5,6 +5,8 @@ Create a math procedure to divide
 Create a math procedure to find maximum number
 Create a math procedure to find minimum number
 Create a math procedure to calculate square root
+
+(will be added keywords in V2)
 Create a math procedure to add square root
 Create a math procedure to subtract square root
 Create a math procedure to multiply square root
