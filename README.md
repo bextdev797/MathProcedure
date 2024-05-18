@@ -10,7 +10,7 @@ Download Here:
 
 3. Drag WhenButton1.click()
 
-4. Under the WhenButton1.click() drag CreateMathProcedure from MathProcedure Extension in CreateMathProcedure's params type for example Create a math procedure to add for the whatProcedure (You Can Do Your Own but make sure to follow the <a href="https://github.com/bextdev797/MathProcedure/blob/main/Keywords.txt">Keywords)!
+4. Under the WhenButton1.click() drag CreateMathProcedure from MathProcedure Extension in CreateMathProcedure's params type for example Create a math procedure to add for the whatProcedure (You Can Do Your Own but make sure to follow the <a href="https://github.com/bextdev797/MathProcedure/blob/main/Keywords.txt">Keywords</a>)!
 
 5. under the CreateMathProcedure drag MathProcedureDo from MathProcedure Extension & in the Math Procedure Do's parameters type 2 numbers 1 for number & 1 for number2.
 
