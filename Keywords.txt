@@ -1,0 +1,19 @@
+Create a math procedure to add
+Create a math procedure to subtract
+Create a math procedure to multiply
+Create a math procedure to divide
+Create a math procedure to find maximum number
+Create a math procedure to find minimum number
+Create a math procedure to calculate square root
+Create a math procedure to add square root
+Create a math procedure to subtract square root
+Create a math procedure to multiply square root
+Create a math procedure to divide square root
+Create a math procedure to add maximum number
+Create a math procedure to subtract maximum number
+Create a math procedure to multiply maximum number
+Create a math procedure to divide maximum number
+Create a math procedure to add mininum number
+Create a math procedure to subtract mininum number
+Create a math procedure to multiply mininum number
+Create a math procedure to divide mininum number
