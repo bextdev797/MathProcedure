@@ -15,3 +15,5 @@ Download Here:
 5. under the CreateMathProcedure drag MathProcedureDo from MathProcedure Extension & in the Math Procedure Do's parameters type 2 numbers 1 for number & 1 for number2.
 
 6. Drag SetLabel1.text to the connector of MathProcedureDo
+
+Released: 5/17/2024 
